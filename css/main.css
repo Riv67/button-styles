@@ -8,7 +8,7 @@ html {
 }
 
 div {
-  padding: 1rem;
+  padding: .4rem;
   text-align: center;
 }
 
@@ -19,7 +19,7 @@ div {
   text-decoration: none;
   padding: .75em;
   border-radius: 8px;
-  display: inline;
+  display: inline-block;
 }
 
 .btn:hover {
