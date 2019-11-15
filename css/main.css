@@ -19,6 +19,7 @@ div {
   text-decoration: none;
   padding: .75em;
   border-radius: 8px;
+  display: inline;
 }
 
 .btn:hover {
@@ -53,7 +54,6 @@ div {
 }
 
 .btn-small {
-  padding: .4em;
   font-size: .875rem;
 }
 
